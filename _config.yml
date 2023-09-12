@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
 title: Búsqueda del tesoro
 description: Duodécimo cumpleaños de Adriana 
-
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-relative-links
 relative_links:
   enabled: true
