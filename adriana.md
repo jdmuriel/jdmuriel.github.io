@@ -1,6 +1,6 @@
 # Pista nº 1
 
-Hola ayudante de Amanda Black!, sabría que llegarías aquí.
+Hola ayudante de Amanda Black!, sabía que llegarías aquí.
 
 Encontrar el artilugio secreto no será fácil, o los zombies ya se lo habrían llevado.
 
