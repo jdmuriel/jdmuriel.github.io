@@ -1,5 +1,5 @@
-# Scavenger hunt
+# Búsqueda del tesoro
 
-This is the start of the scavenger hunt.
+Este es el principio de la búsqueda del tesoro.
 
-Look into [adriana.md]
+La primera pista está [aquí](./hunt-adriana-12-01.html).
