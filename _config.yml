@@ -9,7 +9,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - adriana.md
   - README.md
 github:
   is_project_page: false
